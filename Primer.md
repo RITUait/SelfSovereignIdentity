@@ -1,6 +1,6 @@
-# **A Primer Of Sorts**#
+# **A Primer Of Sorts**
 
-##Satoshi Nakamoto developed the now infamous Bitcoin back in 2008. More than the fascination it garnered among the traders of the dark market for the anonymity it provided, it's underlying technology, called the "Blockchain" found applications in various fields.
+## Satoshi Nakamoto developed the now infamous Bitcoin back in 2008. More than the fascination it garnered among the traders of the dark market for the anonymity it provided, it's underlying technology, called the "Blockchain" found applications in various fields.
 
 ##In the Bitcoin realm, it is a cryptocurrency built on blockchain technology. But that's not all that a blockchain is capable of. There is a sudden demand and interest in blockchain for the wide range of problems it is capable of solving; by disrupting the current structure of governance, banking, trading and even the Internet, as we know it.
 
