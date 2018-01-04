@@ -1,4 +1,4 @@
-#**A Primer Of Sorts**#
+# **A Primer Of Sorts**#
 
 ##Satoshi Nakamoto developed the now infamous Bitcoin back in 2008. More than the fascination it garnered among the traders of the dark market for the anonymity it provided, it's underlying technology, called the "Blockchain" found applications in various fields.
 
