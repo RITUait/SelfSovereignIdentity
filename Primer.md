@@ -20,9 +20,11 @@ To break down the technical jargon:
 
 This is not a primer on how blockchain works, so you can read more on that topic here: <https://github.com/ethereum/wiki/wiki/Ethereum-White-Paper>
 
-Coming back to the part where we simply accepted the shocking fact that blockchain is capable of disrupting the present structure of the internet. Really? What does that mean and why does the present structure need to be done away with anyway?
+Coming back to the part where we simply accepted the shocking fact that blockchain is capable of disrupting the present structure of the internet. Really? 
+What does that mean? 
+And why does the present structure need to be done away with anyway?
 
-### **Data is the currency of our generation.**
+### **Data is the currency of our generation**
 
 Currently, our main sources of information and resources are the bigwigs: Google, Facebook, Amazon, Google you get the drift. They're great services that all of us use and require everyday, however we use them at the cost of giving away personal information, on a daily basis, for the lack of other options.
 Simply put, our data is being held hostage by these service providers.
