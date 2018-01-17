@@ -7,3 +7,5 @@ Project
 | [freecodecamp - building a blockchain](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)| [x] |
 |[solidity documentation](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)| [ ] |
 | token code <https://www.ethereum.org/token>| [ ] |
+| building the private blockchain <https://hackernoon.com/heres-how-i-built-a-private-blockchain-network-and-you-can-too-62ca7db556c0> | [ ] |
+| compiling solidity contract <https://medium.com/@chakrvyuh/prototyping-a-blockchain-smart-contract-78877464e38e> | [ ] |
