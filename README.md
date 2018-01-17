@@ -11,3 +11,4 @@ Project
 | compiling solidity contract <https://medium.com/@chakrvyuh/prototyping-a-blockchain-smart-contract-78877464e38e> | [ ] |
 | [greeter-learing how to compile solidity](https://www.ethereum.org/greeter) | [ ] |
 | [private network](https://github.com/ethereum/go-ethereum/wiki/Private-network) | [ ] |
+|[remix](https://remix.readthedocs.io/en/latest/quickstart_javascriptvm.html)|[ ]|
