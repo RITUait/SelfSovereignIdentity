@@ -9,3 +9,4 @@ Project
 | token code <https://www.ethereum.org/token>| [ ] |
 | building the private blockchain <https://hackernoon.com/heres-how-i-built-a-private-blockchain-network-and-you-can-too-62ca7db556c0> | [ ] |
 | compiling solidity contract <https://medium.com/@chakrvyuh/prototyping-a-blockchain-smart-contract-78877464e38e> | [ ] |
+| [greeter-learing how to compile solidity](https://www.ethereum.org/greeter) | [ ] |
