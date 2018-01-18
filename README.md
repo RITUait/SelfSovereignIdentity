@@ -12,3 +12,7 @@ Project
 | [greeter-learing how to compile solidity](https://www.ethereum.org/greeter) | [ ] |
 | [private network](https://github.com/ethereum/go-ethereum/wiki/Private-network) | [ ] |
 |[remix](https://remix.readthedocs.io/en/latest/quickstart_javascriptvm.html)|[ ]|
+
+|deadends |
+|---|
+|[bootnode](https://github.com/ethereum/go-ethereum/issues/3703)|
