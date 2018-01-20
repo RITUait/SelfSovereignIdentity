@@ -43,6 +43,9 @@ If the above reasons weren't convincing enough, head over to <http://id2020.org/
 The lack of a tangible, irrevocable identity and the lack of a secure digital identity are two paths leading to the same mirage. The present is quite bleak, but as long as technology thrives, it won't be for long.
 
 How do we move forward?
+
 How do we provide people across all age, race and goegraphical boundaries, a way to declare who they are?
+
 How do we represent the innocent and 'invisible'?
+
 How do we make identity easy for anyone to access AND universally credible?
