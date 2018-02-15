@@ -1,22 +1,11 @@
-UPORT: A PLATFORM FOR SELF-SOVEREIGN IDENTITY
-DRAFT VERSION (2017-02-21)
-Dr. Christian Lundk
-vist, Rouv
-en H
-eck, Joel Torstensson, Z
-ac Mitton, M
-ichae
-l Se
-na
-INTRODUCTION
-History
-There are many problems wi
-th the current state of identity systems. Digital identity is fragmented and
-siloed between various servi
-ce providers, prohibiting a holistic view, and delivering poor
- user experience
-necessitating repetitive regi
-strations and logins with usernames and passwords. This results in insecure
+# Whitepaper Summary
+
+##UPORT: A PLATFORM FOR SELF-SOVEREIGN IDENTITY
+##INTRODUCTION
+####History
+There are many problems with the current state of identity systems. Digital identity is fragmented and siloed between various servi
+ce providers, prohibiting a holistic view, and delivering poor user experience
+necessitating repetitive registrations and logins with usernames and passwords. This results in insecure
 systems where people use th
 e same password for m
 any of their sites. The centralized servers of identity
