@@ -6,6 +6,7 @@ const uport = new Connect('NAME_OF_DAPP', {
   signer: SimpleSigner('SIGNING KEY')
 })
 '''
+
 clientId - public address of the app
 signer - signing key of the app	
 
