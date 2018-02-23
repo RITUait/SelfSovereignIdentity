@@ -1,10 +1,10 @@
 1. Instantiate the uPort object:
-
+'''Solidity
 const uport = new Connect('NAME_OF_DAPP', {
   clientId: 'CLIENT_ID',
   signer: SimpleSigner('SIGNING KEY')
 })
-
+'''
 clientId - public address of the app
 signer - signing key of the app	
 
